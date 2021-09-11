@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://up-ipa.xyz/uploads/unc0ver-kasar-6-2-0-1631157196.ipa</string>
+					<string>https://turannul.github.io/ipa/iPA/Unc0ver.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string> https://icons.appinstallerios.com/Unc0verIcon.png</string>
+					<string> https://turannul.github.io/ipa/icons/Unc0verIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://icons.appinstallerios.com/Unc0verIcon.png</string>
+					<string>https://turannul.github.io/ipa/icons/Unc0verIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.unc0ver</string>
+				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>6.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kasar - unc0ver</string>
+				<string>Unc0ver</string>
 			</dict>
 		</dict>
 	</array>
