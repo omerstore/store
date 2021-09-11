@@ -1,5 +1,5 @@
 # Düzenli olarak imzalanıcak
-# Tamamen Ücretsiz/Reklamsız
+# Tamamen Ücretsiz/Reklamsız %100
 # Uygulamalar
 # Chimera v1.6.2 
 # Electra v2.0
