@@ -1,8 +1,10 @@
-# ipa
-Uygulamalar 
-Chimera 1.6.2 
-Electra 2.0
-Odyssey 1.3.3
-Taurine 1.1.1
-Uncover 6.1.2
-Tamamı Imzasız
+# Şuan Imzalı değil. ❗
+# Düzenli olarak imzalanıcak
+# Tamamen Ücretsiz/Reklamsız %100 
+# Uygulamalar
+# Chimera v1.6.2 
+# Electra v2.0
+# Odyssey v1.3.3
+# Taurine v1.1.1
+# Uncover v6.1.2
+# Öneri ve Yardımları için Ömer arkadaşıma teşekkürler.
