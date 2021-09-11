@@ -5,4 +5,5 @@ Electra 2.0
 Odyssey 1.3.3
 Taurine 1.1.1
 Uncover 6.1.2
-Tamamı Imzasız
+Aralıklarla imzalanıcak
+Tamamen Ücretsiz/Reklamsız
