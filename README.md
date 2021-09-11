@@ -6,3 +6,4 @@
 # Odyssey v1.3.3
 # Taurine v1.1.1
 # Uncover v6.1.2
+# Öneri ve Yardımları için Ömer arkadaşıma teşekkürler.
