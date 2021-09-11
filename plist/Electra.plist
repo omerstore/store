@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://repo.saunderstech.co/apps/Lodging/Electra.ipa</string>
+					<string>https://turannul.github.io/ipa/iPA/Electra.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kasarkhatari.github.io/KasarIcon.png</string>
+					<string>https://turannul.github.io/ipa/icons/ElectraIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kasarkhatari.github.io/KasarIcon.png</string>
+					<string>https://turannul.github.io/ipa/icons/ElectraIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.Electra</string>
+				<string>org.coolstar.electra1141</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kasar - Electra</string>
+				<string>Electra</string>
 			</dict>
 		</dict>
 	</array>
