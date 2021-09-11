@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/iPA/Unc0ver.ipa</string>
+					<string>https://turannul.github.io/ipa/iPA/unc0ver.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string> https://turannul.github.io/ipa/icons/Unc0verIcon.png</string>
+					<string> https://turannul.github.io/ipa/icons/unc0verIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/icons/Unc0verIcon.png</string>
+					<string>https://turannul.github.io/ipa/icons/unc0verIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unc0ver</string>
+				<string>unc0ver</string>
 			</dict>
 		</dict>
 	</array>
