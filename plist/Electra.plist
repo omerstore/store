@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/iPA/Electra.ipa</string>
+					<string>https://omerstore.github.io/store/iPA/Electra.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/icons/ElectraIcon.png</string>
+					<string>https://omerstore.github.io/store/icons/ElectraIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/icons/ElectraIcon.png</string>
+					<string>https://omerstore.github.io/store/icons/ElectraIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
