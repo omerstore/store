@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/iPA/Odyssey.ipa</string>
+					<string>https://omerstore.github.io/store/İPA/Odyssey.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/icons/OdysseyIcon.png</string>
+					<string>https://omerstore.github.io/store/icons/OdysseyIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://turannul.github.io/ipa/icons/OdysseyIcon.png</string>
+					<string>https://omerstore.github.io/store/icons/OdysseyIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
