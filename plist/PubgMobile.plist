@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://drive.google.com/u/0/uc?id=1_lwd10DpYJqeVp2tg8JHtPuX6GitPofI&export=download</string>
+          <string>itms-services://?action=download-manifest&url=https://api.i3rby.com/down/ipa/aHR0cHM6Ly94aXBhLm1lL3NlcnZlcjEvaXBhL0lhcmFieS5WTFFLQnVSRmR3Qkp3aUhDQVlLMS5pcGE/app/PUBG+Global+%28server+1%29</string>
         </dict>
         <dict>
           <key>kind</key>
