@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://xipa.me/server1/ipa/Pexforwe.zCkGNUGwINeFF3kP5S9f.ipa</string>
+          <string>http://xipa.me/server1/ipa/Pexforwe.F70uYAGea8OwER4Ovu6P.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -31,11 +31,11 @@
         <key>bundle-identifier</key>
         <string>com.omerstore.tr</string>
         <key>bundle-version</key>
-        <string>1.0</string>
+        <string>2.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Pubg Hile</string>
+        <string>Ömer Store</string>
       </dict>
     </dict>
   </array>
