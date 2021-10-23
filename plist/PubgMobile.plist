@@ -29,13 +29,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.omerstore.tr</string>
+        <string>com.omerstore.vip</string>
         <key>bundle-version</key>
         <string>2.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Ömer Store</string>
+        <string>Ömer Store VİP</string>
       </dict>
     </dict>
   </array>
